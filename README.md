@@ -2,7 +2,7 @@
 
 ## What is this? 
 
-This is a dataset of transaction data scraped from the [Venmo](https://venmo.com) public API. Venmo is an app which allows users to easily send and receive money. 
+This is a dataset of over 7,000,000 transactions scraped from the [Venmo](https://venmo.com) public API. Venmo is an app which allows users to easily send and receive money. 
 
 This data was collected as part of a data analysis project and was scraped during the following date ranges:
 
