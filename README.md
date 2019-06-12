@@ -10,6 +10,12 @@ This data was collected as part of a data analysis project and was scraped durin
 * October 2018
 * Jan 2019 - Feb 2019
 
+I am releasing this dataset in order to bring attention to Venmo users that all of this data is publicly available for anyone to grab without even an API key. There is some very valuable data here for any attacker conducting OSINT research. 
+
+**Protect Yourself**
+
+I would highly encourage all users to switch their Venmo account to private by going to `Settings > Privacy` and selecting "Private" as well as `Past Transactions > Change All to Private`. Screenshot instructions are available [here](https://publicbydefault.fyi/#venmo).
+
 
 ## Dataset Info
 
@@ -19,7 +25,7 @@ The dataset is in BSON form as it was exported from a MongoDB database. It has b
 * **Uncompressed size:** 10.87 GB
 * **Transaction Count:** 7,076,585
 
-A sample transaction .json file is included as `sample.json`
+Each transaction contains lots of information about the sender and receiver, but does not include dollar amounts. A sample transaction .json file is included as `sample.json`
 
 ## Download Dataset
 
