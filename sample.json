@@ -1,0 +1,88 @@
+{
+	"_id" : ObjectId("5bb7bd386e52181f090becfb"),
+	"mentions" : {
+		"data" : [ ],
+		"count" : 0
+	},
+	"payment" : {
+		"amount" : null,
+		"target" : {
+			"redeemable_target" : null,
+			"merchant" : null,
+			"user" : {
+				"username" : "Francisco-Chavez-17",
+				"friends_count" : null,
+				"is_active" : true,
+				"display_name" : "Francisco Chavez",
+				"friend_status" : null,
+				"email" : null,
+				"first_name" : "Francisco",
+				"identity" : null,
+				"last_name" : "Chavez",
+				"is_blocked" : false,
+				"about" : " ",
+				"profile_picture_url" : "https://graph.facebook.com/v2.10/643998679136085/picture?type=square",
+				"id" : "2126534223593472269",
+				"phone" : null,
+				"trust_request" : null,
+				"date_joined" : ISODate("2017-01-13T01:23:54Z"),
+				"is_group" : false
+			},
+			"phone" : null,
+			"email" : null,
+			"type" : "user"
+		},
+		"note" : "🚗",
+		"actor" : {
+			"username" : "mekanik915",
+			"friends_count" : null,
+			"is_active" : true,
+			"display_name" : "Jesus Chavez",
+			"friend_status" : null,
+			"email" : null,
+			"first_name" : "Jesus",
+			"identity" : null,
+			"last_name" : "Chavez",
+			"is_blocked" : false,
+			"about" : " ",
+			"profile_picture_url" : "https://s3.amazonaws.com/venmo/no-image.gif",
+			"id" : "2457721903251456771",
+			"phone" : null,
+			"trust_request" : null,
+			"date_joined" : ISODate("2018-04-15T00:14:42Z"),
+			"is_group" : false
+		},
+		"action" : "pay",
+		"status" : "settled",
+		"date_created" : "2018-08-07T02:11:16",
+		"date_reminded" : null,
+		"id" : "2540405006884930468",
+		"date_authorized" : null,
+		"merchant_split_purchase" : null,
+		"audience" : "public",
+		"date_completed" : "2018-08-07T02:11:16"
+	},
+	"transfer" : null,
+	"note" : "🚗",
+	"type" : "payment",
+	"authorization" : null,
+	"date_updated" : ISODate("2018-08-07T02:11:16Z"),
+	"likes" : {
+		"data" : [ ],
+		"count" : 0
+	},
+	"id" : "2540405007363081189",
+	"comments" : {
+		"data" : [ ],
+		"count" : 0
+	},
+	"date_created" : ISODate("2018-08-07T02:11:16Z"),
+	"audience" : "public",
+	"app" : {
+		"id" : 4,
+		"image_url" : "https://venmo.s3.amazonaws.com/oauth/no-image-100x100.png",
+		"description" : "Venmo for Android",
+		"site_url" : null,
+		"name" : "Venmo for Android"
+	}
+}
