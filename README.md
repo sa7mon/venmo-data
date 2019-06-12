@@ -2,7 +2,7 @@
 
 ## What is this? 
 
-This is a dataset of transaction data scraped from the [https://venmo.com](Venmo) public API. Venmo is an app which allows users to easily send and receive money. 
+This is a dataset of transaction data scraped from the [Venmo](https://venmo.com) public API. Venmo is an app which allows users to easily send and receive money. 
 
 This data was collected as part of a data analysis project and was scraped during the following date ranges:
 
@@ -15,16 +15,16 @@ This data was collected as part of a data analysis project and was scraped durin
 
 The dataset is in BSON form as it was exported from a MongoDB database. It has been compressed with `xz` to allow for faster transfers. 
 
-**Compressed size:** 1.03 GB
-**Uncompressed size:** 10.87 GB
-**Transaction Count:** 7,076,585
+* **Compressed size:** 1.03 GB
+* **Uncompressed size:** 10.87 GB
+* **Transaction Count:** 7,076,585
 
 A sample transaction .json file is included as `sample.json`
 
 ## Download Dataset
 
 * **Torrent (Preferred):** Use the included `.torrent` file
-* **HTTPS:** [https://d.badtech.xyz](Here)
+* **HTTPS:** [Here](https://d.badtech.xyz/venmo.tar.xz)
 
 ## Use This Dataset
 This dataset was exported from a MongoDB instance with the following settings:
