@@ -23,7 +23,7 @@ A sample transaction .json file is included as `sample.json`
 
 ## Download Dataset
 
-* **Torrent (Preferred):** Use the included `.torrent` file
+* **Torrent (Preferred):** [Here](https://github.com/sa7mon/venmo-data/raw/master/venmo.tar.xz.torrent)
 * **HTTPS:** [Here](https://d.badtech.xyz/venmo.tar.xz)
 
 ## Use This Dataset
