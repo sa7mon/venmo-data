@@ -45,7 +45,7 @@ This dataset was exported from a MongoDB instance with the following settings:
 3. Restore dump
     * `mongorestore --collection venmo --db test venmo.bson`
 
-
-
+## Employment
+Since this project is gaining some attention, I should also mention that I'm currently looking for an InfoSec position in the US. Please contact me if you're hiring. 
 
 
