@@ -45,6 +45,19 @@ This dataset was exported from a MongoDB instance with the following settings:
 3. Restore dump
     * `mongorestore --collection venmo --db test venmo.bson`
 
+## Press
+
+* [Gizmodo](https://gizmodo.com/millions-of-transactions-scraped-in-latest-demonstratio-1835587886)
+* [Business Insider](https://www.businessinsider.com/user-scrapes-millions-of-venmo-transactions-highlights-privacy-woes-2019-6)
+* [New York Magazine](https://nymag.com/intelligencer/2019/06/venmo-payments-should-be-private.html)
+* [TechCrunch](https://techcrunch.com/2019/06/16/millions-venmo-transactions-scraped/)
+* [The Next Web](https://thenextweb.com/security/2019/06/17/psa-set-your-venmo-transactions-to-private-right-now/)
+* [Forbes](https://www.forbes.com/sites/kevinmurnane/2019/06/17/venmo-opens-your-transaction-history-to-anyone-who-wants-to-look-heres-how-to-fix-it/#5efbaf5d23c9)
+* [SecurityWeek](https://www.securityweek.com/researcher-scrapes-and-posts-7-million-venmo-transactions)
+* [The Register](https://www.theregister.co.uk/2019/06/17/venmo_public_transaction_data/)
+* [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7151787/Security-researcher-scrapes-millions-Venmo-transactions.html)
+
+
 ## Employment
 Since this project is gaining some attention, I should also mention that I'm currently looking for an InfoSec position in the US. Please contact me if you're hiring. 
 
