@@ -56,7 +56,7 @@ This dataset was exported from a MongoDB instance with the following settings:
 * [SecurityWeek](https://www.securityweek.com/researcher-scrapes-and-posts-7-million-venmo-transactions)
 * [The Register](https://www.theregister.co.uk/2019/06/17/venmo_public_transaction_data/)
 * [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7151787/Security-researcher-scrapes-millions-Venmo-transactions.html)
-
+* [Heise Online (German)](https://www.heise.de/newsticker/meldung/Datenbank-von-oeffentlichen-Venmo-Transaktionen-auf-Github-4448178.html)
 
 ## Employment
 Since this project is gaining some attention, I should also mention that I'm currently looking for an InfoSec position in the US. Please contact me if you're hiring. 
