@@ -56,5 +56,6 @@ This dataset was exported from a MongoDB instance with the following settings:
 * [SecurityWeek](https://www.securityweek.com/researcher-scrapes-and-posts-7-million-venmo-transactions)
 * [The Register](https://www.theregister.co.uk/2019/06/17/venmo_public_transaction_data/)
 * [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7151787/Security-researcher-scrapes-millions-Venmo-transactions.html)
-* [Heise Online (German)](https://www.heise.de/newsticker/meldung/Datenbank-von-oeffentlichen-Venmo-Transaktionen-auf-Github-4448178.html)
 * [Mozilla](https://twitter.com/mozilla/status/1144275579849596930)
+* [Heise Online (German)](https://www.heise.de/newsticker/meldung/Datenbank-von-oeffentlichen-Venmo-Transaktionen-auf-Github-4448178.html) - [English Google Translate](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.heise.de%2Fnewsticker%2Fmeldung%2FDatenbank-von-oeffentlichen-Venmo-Transaktionen-auf-Github-4448178.html)
+* [Golem.de (German)](https://www.golem.de/news/datenschutz-paypal-tochter-venmo-belaesst-transaktionen-im-internet-1906-141947.html) - [English Google Translate](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.golem.de%2Fnews%2Fdatenschutz-paypal-tochter-venmo-belaesst-transaktionen-im-internet-1906-141947.html)
