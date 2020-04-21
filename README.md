@@ -47,6 +47,7 @@ This dataset was exported from a MongoDB instance with the following settings:
 
 ## Press
 
+* [Wired (Opinion)](https://www.wired.com/story/i-scraped-millions-of-venmo-payments-your-data-is-at-risk/)
 * [Gizmodo](https://gizmodo.com/millions-of-transactions-scraped-in-latest-demonstratio-1835587886)
 * [Business Insider](https://www.businessinsider.com/user-scrapes-millions-of-venmo-transactions-highlights-privacy-woes-2019-6)
 * [New York Magazine](https://nymag.com/intelligencer/2019/06/venmo-payments-should-be-private.html)
