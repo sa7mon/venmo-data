@@ -45,6 +45,19 @@ This dataset was exported from a MongoDB instance with the following settings:
 3. Restore dump
     * `mongorestore --collection venmo --db test venmo.bson`
 
+## Citation
+
+**APA**
+
+```
+Salmon, Dan. (2019). Venmo Transaction Dataset [Dataset]. Retrieved from https://github.com/sa7mon/venmo-data
+```
+
+**MLA**
+
+```
+Venmo Transaction Dataset. Dan Salmon, June 2019, https://github.com/sa7mon/venmo-data. Accessed (date here). Dataset.
+```
 ## Press
 
 * [Wired (Opinion)](https://www.wired.com/story/i-scraped-millions-of-venmo-payments-your-data-is-at-risk/)
