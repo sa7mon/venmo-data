@@ -30,7 +30,7 @@ Each transaction contains lots of information about the sender and receiver, but
 ## Download Dataset
 
 * **Torrent (Preferred):** [Here](https://github.com/sa7mon/venmo-data/raw/master/venmo.tar.xz.torrent)
-* **HTTPS:** [Here](https://d.badtech.xyz/venmo.tar.xz)
+* **HTTPS:** [Here](https://drive.google.com/drive/folders/1m59TMADiwk3gArT-teUUOBlSKokq51ZL?usp=sharing)
 
 ## Use This Dataset
 This dataset was exported from a MongoDB instance with the following settings:
